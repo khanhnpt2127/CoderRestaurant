@@ -10,5 +10,3 @@ class FoodItem < ApplicationRecord
   end
 end
 
-
-ß
