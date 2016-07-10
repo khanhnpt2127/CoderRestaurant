@@ -2,19 +2,19 @@
 
 **Coder Restaurant** is a Ruby on Rails restaurant website let users order foods.
 
-Submitted by: **Your Name**
+Submitted by: Nguyễn Phạm Tuấn Khanh
 
-Time spent: **XX** hours spent in total
+Time spent: 3 hours spent in total
 
-URL: **heroku-app-url**
+URL: https://rorcoderrestaurant.herokuapp.com
 
 ## User Stories
 
 ### Required:
 
-* [ ] User must be able to go two pages: Menu, and Contact Us.
-* [ ] User can see the address and phone number on the contact us page.
-* [ ] User can see a basic google map on the Contact Us page.
+* [x] User must be able to go two pages: Menu, and Contact Us.
+* [x] User can see the address and phone number on the contact us page.
+* [x] User can see a basic google map on the Contact Us page.
 * [ ] User can navigate to a menu page with four sections:
   * [ ] Breakfast
   * [ ] Lunch
